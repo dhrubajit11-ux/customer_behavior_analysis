@@ -30,6 +30,3 @@ Interactive visualizations include:
 * Sales by age group
 * Subscription insights
 
-## Project Demo
-
-https://youtu.be/5PrZvPeUw60
